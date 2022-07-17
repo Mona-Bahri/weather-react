@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Weekdays() {
   return (
-    <div>
+    <div className="mt-4 mb-2">
       <div className="days-card">
         <div className="title">sunday</div>
         <div className="days-weather-icon"></div>
